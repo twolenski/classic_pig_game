@@ -1,3 +1,4 @@
 # Pig - [Software]
-- Fully working user interface.
-- Functioning pseudo random logic
+- Basic game.
+- Complete Frontend User Interface.
+- Complete Backend Logic.
